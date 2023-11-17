@@ -6,6 +6,8 @@ Analyzes emotions in text chunks per chapter using a sentiment analysis model, v
 # Overview:
 This tool performs emotion analysis on text chunks within chapters of novels using a sentiment analysis model. It displays line graphs representing emotion scores across these chunks and pie charts showing dominant emotions per chapter. Developed using the Transformers library, it enhances the comprehension of emotional nuances in literary works.
 
+![image](https://github.com/Hasibwajid/Novel-s-Emotion-Detection-Using-emotion-english-distilroberta-base/assets/72168225/88a4a527-13e5-4d3d-bb90-36b092410dc1)
+
 # Accessing and Applying on Different Novels/Data/Text:
 The tool can be applied to various novels by segmenting their text into chapters and chunks. Access the text data of the novels, preprocess it, and utilize the tool to perform emotion analysis. The pipeline uses an emotion analysis model from the Transformers library, allowing easy implementation for emotional analysis across different literary works.
 
